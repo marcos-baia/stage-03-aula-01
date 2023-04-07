@@ -1,7 +1,7 @@
 ## 🚀 Rockeatseat 
 <h1>Stage 03 - Avançando no HTML e CSS</h1>
 
-<h2>Formulários, Validações e Customizações</h2>
+<h3>Formulários, Validações e Customizações</h3>
 
 <h3>Descrição</h3>
 
