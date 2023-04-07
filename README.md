@@ -3,7 +3,7 @@
 
 <h3>Formulários, Validações e Customizações</h3>
 
-<h3>Descrição</h3>
+<h4>Descrição</h4>
 
 <p align="justify">Nessa aula apresentamos o projeto que iremos desenvolver nesse módulo. Trabalharemos com formulários para capturar dados através da web. </p>
 
