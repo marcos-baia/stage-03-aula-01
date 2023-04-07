@@ -1,7 +1,10 @@
 ## 🚀 Rockeatseat 
 <h1>Stage 03 - Avançando no HTML e CSS</h1>
 
-<h3>Formulários, Validações e Customizações</h3>
+<h3>Aula 01 - Formulários, Validações e Customizações</h3>
+<p align="center">
+  <img alt="Stage 03 / Projeto 01" src="assets/figma-project-01.png" width="60%">
+</p>
 
 <h4>Descrição</h4>
 
