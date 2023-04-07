@@ -1,7 +1,7 @@
 ## 🚀 Rockeatseat 
 <h1>Stage 03 - Avançando no HTML e CSS</h1>
 
-<h2>Visão geral do projeto</h2>
+<h2>Iniciando o projeto 01</h2>
 
 <h3>Descrição</h3>
 
